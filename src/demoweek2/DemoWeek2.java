@@ -17,7 +17,9 @@ public class DemoWeek2 {
         // TODO code application logic here
         //first commit from netBeans
         //second commit from github
+        //Fetch pull 
     }
     
 }
+
 
